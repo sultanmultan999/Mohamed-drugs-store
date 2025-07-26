@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Free Website</title>
+</head>
+<body style="text-align:center; font-family:sans-serif; background:#f4f4f4; padding:50px;">
+  <h1>Welcome to My Free Website</h1>
+  <p>This site is hosted 100% free using GitHub + Netlify!</p>
+</body>
+</html>
